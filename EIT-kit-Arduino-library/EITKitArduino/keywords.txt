@@ -1,0 +1,49 @@
+#######################################
+# Syntax Coloring Map For Test
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+EITKitArduino	KEYWORD1
+Meas_t      KEYWORD1
+Mux_t	    KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+take_measurements	KEYWORD2
+ensureBluetoothConnection  KEYWORD2
+set_num_electrodes  	KEYWORD2
+get_num_electrodes  	KEYWORD2
+set_num_bands       	KEYWORD2
+get_num_bands       	KEYWORD2
+set_num_terminals   	KEYWORD2
+get_num_terminals   	KEYWORD2
+set_meas_type       	KEYWORD2
+get_meas_type       	KEYWORD2
+set_drive_type		KEYWORD2
+get_drive_type		KEYWORD2
+set_visualize_3d    	KEYWORD2
+get_visualize_3d    	KEYWORD2
+set_auto_calibration    KEYWORD2
+get_auto_calibration    KEYWORD2
+set_current_freq        KEYWORD2
+get_current_freq        KEYWORD2
+set_current_gain        KEYWORD2
+get_current_gain        KEYWORD2
+set_voltage_gain        KEYWORD2
+get_voltage_gain        KEYWORD2
+get_magnitude_array     KEYWORD2
+get_phase_array         KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+

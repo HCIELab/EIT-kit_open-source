@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2021-10-13T20:45:26Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.99,
+        "LayerNumber": 4,
+        "Name": {
+            "ProjectId": "ESP32_EIT_V2 v133"
+        },
+        "Owner": "Junyi Zhu <junyizhu@mit.edu>",
+        "Size": {
+            "X": 40,
+            "Y": 60
+        }
+    }
+}
