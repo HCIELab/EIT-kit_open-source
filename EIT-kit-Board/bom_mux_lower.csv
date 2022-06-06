@@ -1,0 +1,6 @@
+Reference, Quantity, Value, Footprint, Datasheet
+C1 C3 C4 C5 ,4,0.1u,Capacitor_SMD:C_0603_1608Metric,~
+C2 ,1,10u,Capacitor_SMD:C_0805_2012Metric,~
+J1 ,1,Molex 52465-1870,MUX_Board:Molex_52465-1870,~
+J2,1,Molex 53307-1871,MUX_Board:Molex_53307-1871,~
+U4 U2 U1 U3 ,4,ADG731,Package_QFP:TQFP-48_7x7mm_P0.5mm,
