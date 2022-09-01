@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2021-12-24T03:16:29Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.99,
+        "LayerNumber": 4,
+        "Name": {
+            "ProjectId": "MUX1 v155"
+        },
+        "Owner": "Junyi Zhu <junyizhu@mit.edu>",
+        "Size": {
+            "X": 37.5,
+            "Y": 43.4
+        }
+    }
+}
